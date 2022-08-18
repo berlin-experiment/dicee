@@ -1,9 +1,7 @@
-# dicee
+<div align="center">
+<h1>magik8ball</h1>
 
-This project is a related to an online course
+Complete Flutter App Development Bootcamp with Dart Course Flutter project.
 
-### Udemy 
-The Complete 2021 Flutter Development Bootcamp with Dart
-Section 7: Dicee - Building Apps with State
-
-###### Course by Dr. Angela Yu, Developer and Lead Instructor
+  <img src="https://github.com/berlin-experiment/dicee/blob/master/images/preview.png?raw=true" width="600" alt="accessibility text">
+</div>
